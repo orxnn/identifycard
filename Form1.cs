@@ -1,6 +1,6 @@
 using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
-namespace passport_project_polad
+namespace identifycard
 {
     public partial class Form1 : Form
     {
