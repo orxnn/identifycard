@@ -1,4 +1,4 @@
-namespace passport_project_polad
+namespace identifycard
 {
     internal static class Program
     {
